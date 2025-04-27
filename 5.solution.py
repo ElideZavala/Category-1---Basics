@@ -1,8 +1,8 @@
 def first_and_last_same(list):
     print("Given List:", list)
 
-    first_el = list[0]
-    last_el = list[-1]
+    first_el = list[0] # obtenemos el primer valor/
+    last_el = list[-1] # obtenemos el ultimo valor
 
     if first_el == last_el:
         return True
