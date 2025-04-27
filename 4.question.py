@@ -4,4 +4,4 @@ def remove_chars(str, num):
     return str[num:] # Con el num: obtenemos el resto de los valores
 
 
-print(remove_chars("learning", 4))
+print(remove_chars("learning", 4)) # Output: ning
